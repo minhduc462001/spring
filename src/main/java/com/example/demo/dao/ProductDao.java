@@ -7,6 +7,6 @@ import org.springframework.stereotype.Repository;
 @Repository
 public class ProductDao {
     public void getAllProduct(Product product){
-    // say something ok
+    // say something ok ok
     }
 }
